@@ -6,7 +6,7 @@ console.log('Whack-a-Mole!')
 let cellsArray = document.getElementsByTagName('td')
 //let randomIndex="", randomIndex=""
 let mole = document.createElement('img')
-mole.src = 'mole.png'
+mole.src = 'mole.PNG'
 mole.id = 'mole'
 let count = 0
 let counter = document.getElementById('count')
